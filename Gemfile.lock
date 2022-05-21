@@ -137,6 +137,9 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     regexp_parser (1.8.2)
+    responders (2.4.0)
+      actionpack (>= 4.2.0, < 5.3)
+      railties (>= 4.2.0, < 5.3)
     ruby_dep (1.5.0)
     rubyzip (2.3.2)
     sass (3.7.4)
@@ -199,6 +202,7 @@ DEPENDENCIES
   pg (>= 0.18, < 2.0)
   puma (~> 3.11)
   rails (~> 5.2.8)
+  responders
   sass-rails (~> 5.0)
   selenium-webdriver
   spring
@@ -212,4 +216,4 @@ RUBY VERSION
    ruby 2.4.5p335
 
 BUNDLED WITH
-   2.3.13
+   2.3.14

@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  value: 9.99
+  value_promotion: 9.99
+  status: false
+  category: one
+  tag: one
+
+two:
+  title: MyString
+  description: MyText
+  value: 9.99
+  value_promotion: 9.99
+  status: false
+  category: two
+  tag: two
